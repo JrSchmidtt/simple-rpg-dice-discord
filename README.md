@@ -46,5 +46,5 @@ go to `config.json` and edit the values:
 
 ## Author
 
-**Discord Presence** © [JrSchmidt](https://github.com/JrSchmidtt).  
+**RPG DICE Discord** © [JrSchmidt](https://github.com/JrSchmidtt).  
 Authored and maintained by TioSchmidt#6110.
