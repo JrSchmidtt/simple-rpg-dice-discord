@@ -33,7 +33,8 @@ go to `config.json` and edit the values:
 2. Install [node.js](https://nodejs.org/en/) to run 
 3. Install [Visual Studio Code](https://code.visualstudio.com/) to edit 
 4. Install [Discord.js](https://discord.js.org/#/) to run
-5. Open the powershell Terminal in Visual studio and run the command `` `node .``` in the folder with the bot
+5. Open the powershell Terminal in Visual studio and run the command ``` npm install ``` in folder to install the dependencies
+6. Run the command ```node bot.js``` in the folder with the bot
 
 ## Contributing
 
@@ -47,4 +48,4 @@ go to `config.json` and edit the values:
 ## Author
 
 **RPG DICE Discord** © [JrSchmidt](https://github.com/JrSchmidtt).  
-Authored and maintained by TioSchmidt#6110.
+Authored and maintained by Schmidt#9639.
