@@ -43,7 +43,7 @@ go to `config.json` and edit the values:
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
 5. Push to the branch: `git push origin my-new-feature`
-6. Submit a pull request :D
+6. Submit a pull request. :D
 
 ## Author
 
